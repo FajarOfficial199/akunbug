@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "username": "fajar",
+    "password": "jar1",
+    "role": "owner",
+    "expiresAt": 1767714541219,
+    "createdAt": 1767541741219
+  }
+]
