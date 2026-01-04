@@ -5,5 +5,12 @@
     "role": "owner",
     "expiresAt": 1766905298052,
     "createdAt": 1764313298052
+  },
+  {
+    "username": "fajar",
+    "password": "jar1",
+    "role": "owner",
+    "expiresAt": 1767713008418,
+    "createdAt": 1767540208418
   }
 ]
